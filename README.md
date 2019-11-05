@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Initial Layout
+#### The corners are rounded to give a phone effect.
 ![Screenshot (27)](https://user-images.githubusercontent.com/53819899/68180802-16eb5700-ffbb-11e9-9fdb-47614ed46e57.png)
 
 
